@@ -1,0 +1,2 @@
+"""Checkout migration example package."""
+
